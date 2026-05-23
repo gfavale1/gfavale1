@@ -73,14 +73,6 @@ Some examples include:
 
 ---
 
-## GitHub stats
-
-![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfavale1&show_icons=true&hide_title=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gfavale1&layout=compact&hide_border=true)
-
----
-
 ## Contact
 
 - GitHub: [@gfavale1](https://github.com/gfavale1)
